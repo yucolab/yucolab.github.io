@@ -1,10 +1,12 @@
 # yucolab.github.io
 
 ## workflow
-- run `gatsby develop` inside `gatsby/` ; 
-- update related files in `/gatsby/src` ; 
+- cd to `/gatsby/` ; `
+- run `gatsby develop` ; 
+- update related files in `src/` ; 
 - run `/build.zsh` ; 
 - git add / comment / push ; 
+  - after git push, changes will be deployed automatically in a few minutes ; 
 
 ## notes / spec
 - CNAME
