@@ -6,12 +6,12 @@
 - run `/build.zsh` ; 
 - git add / comment / push ; 
 
-## folder structure
+## notes / spec
 - CNAME
-  - pages.yucolab.com
+  - `pages.yucolab.com`
 
-- root
-  - docs/
+- folder for published content
+  - /docs/
   - configured inside github
 
 - gendering engine
