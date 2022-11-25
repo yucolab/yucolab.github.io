@@ -12,20 +12,17 @@ function banner
 }
 #/////////////////////////////////////////////
 
-banner "change into the dir gatsby"
-cd gatsby
+banner "do initial install"
+npm i
 
 banner "start a new build"
 npm run build
 
-banner "sync the public folder to docs"
+banner "sync the gatsby build output to docs the public folder"
 npm run sync
 
-banner "move back to the script dir"
-cd -
-
 banner "copy CNAME to docs/"
-cp CNAME ./docs/
+npm run copy
 
 banner "done ~"
 
