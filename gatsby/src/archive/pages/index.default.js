@@ -67,14 +67,7 @@ const moreLinks = [
     text: "Contributing",
     url: "https://www.gatsbyjs.com/contributing/",
   },
-  { 
-    text: "Issues", 
-    url: "https://github.com/gatsbyjs/gatsby/issues"
-  },
-  {
-    text: "handbook",
-    url: "/handbook"
-  },
+  { text: "Issues", url: "https://github.com/gatsbyjs/gatsby/issues" },
 ]
 
 /////////////////////////////////////////////////////////////////
