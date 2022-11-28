@@ -13,6 +13,10 @@ const moreLinks = [
     text: "home",
     url: "/",
   },
+  {
+    text: "handbook index",
+    url: "/handbook",
+  },
 
 ]// moreLinks
 /////////////////////////////////////////////////////////////////
